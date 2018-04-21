@@ -13,5 +13,6 @@ init screen
 			declare filesystem.
 				1. open filesystem.navigation
 				2. enable access to hidden files
-			select profile path
+			select profile choice 
+				path enabling
 		
