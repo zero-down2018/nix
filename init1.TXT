@@ -1,0 +1,17 @@
+# import time
+# import io
+# import filesystem
+# import libcrypto_1
+# import libcypt_pack_1
+# import libcypt_pack_2
+
+init screen
+	screen open (which profile,)
+		size dimensions ipad2
+		scale dimensions proportional
+		declare input class1
+			declare filesystem.
+				1. open filesystem.navigation
+				2. enable access to hidden files
+			select profile path
+		
